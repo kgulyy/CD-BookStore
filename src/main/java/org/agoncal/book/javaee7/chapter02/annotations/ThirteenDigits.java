@@ -4,7 +4,7 @@ import javax.inject.Qualifier;
 import java.lang.annotation.*;
 
 /**
- * Created by Константин on 28.01.2016.
+ * @author Константин
  */
 @Qualifier
 @Retention(RetentionPolicy.RUNTIME)
